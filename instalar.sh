@@ -33,5 +33,5 @@ sudo flatpak install flathub org.filezillaproject.Filezilla
 #sudo apt autoremove -y gnome-games 
 
 echo "################################################################"
-echo "################   Ya está ya todo instalado  ##################"
+echo "#################   Ya está todo instalado   ###################"
 echo "################################################################"

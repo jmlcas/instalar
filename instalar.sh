@@ -28,6 +28,11 @@ sudo flatpak install flathub com.sublimetext.three
 sudo flatpak install flathub org.filezillaproject.Filezilla
 
 
+#Instalar aplicaciones .deb
+wget https://github.com/fastfetch-cli/fastfetch/releases/download/2.21.1/fastfetch-linux-amd64.deb
+sudo apt install -y screen && sudo dpkg -i fastfetch-linux-amd64.deb
+
+
 #Desinstalar
 #sudo apt purge -y gnome-games
 #sudo apt autoremove -y gnome-games 
